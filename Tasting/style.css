@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  color: darkblue;
+  letter-spacing: 5px;
+  margin: 17px;
+}
+.p1 {
+  letter-spacing: 3px;
+  font-family: "Times New Roman", Times, serif;
+  border-bottom: solid 2px rgb(185, 185, 171);
+  padding-bottom: 15px;
+}
+span {
+  letter-spacing: 5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: darkblue;
+  font-size: 20px;
+}
+.ba-g {
+  letter-spacing: 7px;
+  background-color: rgb(173, 112, 231);
+}
+section {
+  background-color: beige;
+  padding: 20px;
+  border: solid 2px blue;
+  margin: 100px 300px;
+}

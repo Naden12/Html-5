@@ -1,0 +1,14 @@
+.item {
+  cursor: pointer;
+}
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+.flas {
+  text-align: center;
+  width: 100px;
+}
+.subtitle {
+  color: darkred;
+  text-decoration: underline;
+}
